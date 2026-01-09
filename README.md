@@ -1,67 +1,46 @@
-<h1 align="center">Hi 👋, I'm Dhruv Sengar</h1>
-<h3 align="center">A Passionate Computer Science Student & Developer from Mathura, India</h3>
+<!-- Banner -->
+<h1 align="center">Hi, I'm Dhruv Sengar 👋</h1>
+<h3 align="center">Developer • AI • Python • DSA • Web • Linux • Coffee</h3>
 
 ---
 
-## 💫 About Me  
-🎓 I'm a 20-year-old Computer Science student currently pursuing my degree.  
-💡 Specialized in **Python**, and actively learning **DSA** & **Web Development**.  
-🚀 I love building functional, efficient, and smart applications.  
-🌱 Always eager to explore modern technologies and real-world problem-solving.
-
----
-
-## 🌐 Socials  
+<!-- Animated Typing -->
 <p align="center">
-<a href="https://www.linkedin.com/in/dhruv-sengar-b8370530b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:dhruvsengar453@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=Computer+Science+Student;Python+%26+Web+Developer;AI+%26+DSA+Enthusiast;Building+Cool+Projects!" alt="Typing"/>
 </p>
 
 ---
 
-## 💻 Tech Stack  
+## 🌟 About Me
+
+- 🎓 I'm a Computer Science student (Year 1)
+- 🧠 Specialized in **Python**, exploring **DSA** & **Web Development**
+- 🚀 Currently building: **PARKITUP**
+- 💡 Interested in AI, automation, and productivity tools
+- 🤝 I love solving real-world problems through code
+
+---
+
+## 🌍 Social Links
 <p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<a href="https://www.linkedin.com/in/dhruv-sengar-b8370530b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dhruvsengar453@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats-rust-kappa.vercel.app/api?username=Dhruv-sengar&theme=tokyonight&hide_border=false&show_icons=true" alt="stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Dhruv-sengar&theme=tokyonight&hide_border=false" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats-rust-kappa.vercel.app/api/top-langs?username=Dhruv-sengar&theme=tokyonight&hide_border=false&layout=compact" alt="langs"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+## 🏗️ Projects
 
----
-
-## 🔝 Top Contributed Repositories  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dhruv-sengar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-sengar&color=blue&style=flat" />
-</p>
-
----
-
-<!-- Proudly crafted with ❤️ and curiosity -->
