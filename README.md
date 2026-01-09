@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 Socials  
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/dhruv-sengar-b8370530b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
@@ -24,7 +24,7 @@
 ---
 
 ## 💻 Tech Stack  
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -34,35 +34,34 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-sengar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-sengar&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-sengar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-rust-kappa.vercel.app/api?username=Dhruv-sengar&theme=tokyonight&hide_border=false&show_icons=true" alt="stats"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Dhruv-sengar&theme=tokyonight&hide_border=false" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-stats-rust-kappa.vercel.app/api/top-langs?username=Dhruv-sengar&theme=tokyonight&hide_border=false&layout=compact" alt="langs"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 🔝 Top Contributed Repositories  
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Dhruv-sengar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Dhruv-sengar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 ## 👀 Profile Views  
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Dhruv-sengar&icon=0&color=0" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Dhruv-sengar&color=blue&style=flat" />
 </p>
 
 ---
 
-<!-- Proudly created with an enhanced version of GPRM (https://gprm.itsvg.in) -->
-
+<!-- Proudly crafted with ❤️ and curiosity -->
