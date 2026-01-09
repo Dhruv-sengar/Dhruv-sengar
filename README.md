@@ -13,11 +13,11 @@
 
 ## 🌟 About Me
 
-- 🎓 I'm a Computer Science student (Year 1)
+- 🎓 I'm a **B.Tech Computer Science student (Year 3)**
 - 🧠 Specialized in **Python**, exploring **DSA** & **Web Development**
 - 🚀 Currently building: **PARKITUP**
-- 💡 Interested in AI, automation, and productivity tools
-- 🤝 I love solving real-world problems through code
+- 💡 Interested in AI, automation, future-tech, and productivity tools
+- 🤝 I enjoy solving real-world problems through code
 
 ---
 
@@ -44,3 +44,65 @@
 
 ## 🏗️ Projects
 
+
+More projects coming soon...
+
+---
+
+## 📚 Currently Learning
+
+- 🟦 Data Structures & Algorithms
+- 🌐 Web Development (Front-End + Back-End)
+- 🤖 AI / Automation Tools
+- 🧰 Linux & Developer Tooling
+
+---
+
+## 💬 Ask Me About
+
+- Python Automation
+- Early AI Projects
+- DSA Journey
+- Building Custom Assistants & Tools
+
+---
+
+## 🎲 Fun Fact
+
+> I like creating tools that make daily life feel futuristic ✨
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-rust-kappa.vercel.app/api?username=Dhruv-sengar&theme=tokyonight&show_icons=true&hide_border=false"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Dhruv-sengar&theme=tokyonight&hide_border=false"/>
+<br/>
+<img src="https://github-readme-stats-rust-kappa.vercel.app/api/top-langs?username=Dhruv-sengar&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&row=1&no-frame=true&margin-w=10)
+
+---
+
+## 👁️ Profile Views
+
+![](https://komarev.com/ghpvc/?username=Dhruv-sengar&color=blue)
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">Made with ❤️, curiosity, and a lot of coffee ☕</p>
