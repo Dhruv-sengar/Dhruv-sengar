@@ -95,11 +95,11 @@
 ## 📊 Retro Stats Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats-rust-kappa.vercel.app/api?username=Dhruv-sengar&theme=tokyonight&show_icons=true&hide_border=false"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Dhruv-sengar&theme=tokyonight&hide_border=false"/>
-<br/>
-<img src="https://github-readme-stats-rust-kappa.vercel.app/api/top-langs?username=Dhruv-sengar&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-sengar&show_icons=true&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-sengar&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-sengar&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## 🏆 GitHub Awards Shelf
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&row=1&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" />
 </p>
 
 ---
