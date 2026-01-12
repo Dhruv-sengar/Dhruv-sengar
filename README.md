@@ -3,12 +3,16 @@
 <h3 align="center">Developer • AI • Python • DSA • Web • Linux • Coffee</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/terminal-boot.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/crt-loading.gif" width="260"/>
 </p>
 
 ---
 
-## 🕹️ About Me
+## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/pixel-divider.gif" width="500"/>
+</p>
 
 > B.Tech Computer Science (Year 3)  
 > Python enjoyer, DSA explorer, web builder, and automation gremlin  
@@ -16,12 +20,16 @@
 - 🧠 Specialized in **Python**, learning **DSA + Web Dev**
 - 🚀 Currently building: **PARKITUP**
 - 🛠 Obsessed with tools that automate daily chaos
-- 📡 Interested in **AI, retro tech, automation, productivity**
-- 🐧 Linux enjoyer (soon maybe Arch…)
+- 🖥 Interested in **AI, retro tech, automation, productivity**
+- 🐧 Linux enjoyer (maybe Arch someday…)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/crt-divider.gif" width="700"/>
+</p>
 
 ---
 
-## 📟 Social Links
+## 🌐 Social Links
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruv-sengar-b8370530b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-005E93?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -41,6 +49,10 @@
 <img src="https://img.shields.io/badge/Linux-FCE100?style=for-the-badge&logo=linux&logoColor=000"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/pixel-divider.gif" width="500"/>
+</p>
+
 ---
 
 ## 🧩 DSA Grind — Striver A2Z Sheet
@@ -54,25 +66,31 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/crt-divider.gif" width="700"/>
+</p>
+
 ---
 
-## 📂 Projects
+## 📂 Projects (Loading...)
 
 > **PARKITUP** — (in development)  
 > more projects loading... ⏳
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/hack-type.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/hack-type.gif" width="260"/>
 </p>
 
 ---
 
-## 📚 Currently Booting...
+## 📚 Developer Status
 
-- 🔷 Data Structures & Algorithms
-- 🌐 Web Development (Front + Back)
-- 🤖 AI / Automation Tricks
-- 🐧 Linux & Developer Tooling
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-PARKITUP-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Theme-Retro-purple?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -82,32 +100,8 @@
 
 ---
 
-## 📊 Retro Stats Dashboard
-
 <p align="center">
-  <img src="https://github-readme-stats-phi.vercel.app/api?username=Dhruv-sengar&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-streak-stats.vercel.app?user=Dhruv-sengar&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Dhruv-sengar&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/urfuccin/retro-assets/main/pixel-divider.gif" width="500"/>
 </p>
-
----
-
-## 🏆 GitHub Awards Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&margin-w=10&no-bg=true&no-frame=false" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 <p align="center">Made with ❤️ caffeine ☕ nostalgia 🕹️ and curiosity 🧩</p>
