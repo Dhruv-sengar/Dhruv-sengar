@@ -76,16 +76,6 @@
 
 ---
 
-## 💬 Ask Me About
-
-- Python automation scripts
-- Early AI projects
-- DSA student journey
-- Building custom assistants (Ava incoming)
-- Productivity tooling
-
----
-
 ## 🎛 Fun Fact
 
 > I create tools that make daily life feel slightly futuristic but aesthetically retro ✨
@@ -95,11 +85,11 @@
 ## 📊 Retro Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-sengar&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats-phi.vercel.app/api?username=Dhruv-sengar&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruv-sengar&theme=tokyonight&hide_border=false" />
+  <img src="https://github-streak-stats.vercel.app?user=Dhruv-sengar&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-sengar&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Dhruv-sengar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -107,7 +97,7 @@
 ## 🏆 GitHub Awards Shelf
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&margin-w=10&no-bg=true&no-frame=false" />
 </p>
 
 ---
