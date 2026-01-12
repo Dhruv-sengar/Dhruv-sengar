@@ -67,28 +67,46 @@
 
 ---
 
-## 📚 Developer Status
+## 📚 Currently Booting...
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-PARKITUP-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Theme-Retro-purple?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-> (GitHub internal graph — always works)
-
-![GitHub Activity Graph](https://raw.githubusercontent.com/Dhruv-sengar/Dhruv-sengar/main/profile-activity.svg)
+- 🔷 Data Structures & Algorithms
+- 🌐 Web Development (Front + Back)
+- 🤖 AI / Automation Tricks
+- 🐧 Linux & Developer Tooling
 
 ---
 
 ## 🎛 Fun Fact
 
 > I create tools that make daily life feel slightly futuristic but aesthetically retro ✨
+
+---
+
+## 📊 Retro Stats Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats-phi.vercel.app/api?username=Dhruv-sengar&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-streak-stats.vercel.app?user=Dhruv-sengar&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Dhruv-sengar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Awards Shelf
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv-sengar&theme=tokyonight&margin-w=10&no-bg=true&no-frame=false" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
