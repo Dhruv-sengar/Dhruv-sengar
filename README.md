@@ -25,16 +25,19 @@
 
 <br>
 
-<!-- ☕ COFFEE GIF SECTION — funky entrance -->
+<!-- ☕ COFFEE GIF SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=me+before+coding...+☕;me+AFTER+coffee...+⚡;fuel+%3D+coffee+%2B+caffeine+%2B+chaos+🔥" alt="Coffee text" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=me+before+coding...+%E2%98%95;me+AFTER+coffee...+%E2%9A%A1;fuel+%3D+coffee+%2B+caffeine+%2B+chaos+%F0%9F%94%A5" alt="Coffee text" />
+
   <br><br>
-  <img src="https://github.com/Dhruv-sengar/Dhruv-sengar/blob/main/Coffee%20fix%20that%20works!.gif?raw=true"
-       width="340"
-       style="border-radius: 12px;"
-       alt="Coffee fix that works" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=14&duration=1500&pause=800&color=999999&center=true&vCenter=true&width=500&lines=git+commit+-m+%22fueled+by+coffee%22;npm+run+grind;pip+install+caffeine" alt="Coffee code" />
+
+  <img src="https://github.com/Dhruv-sengar/Dhruv-sengar/raw/main/Coffee%20fix%20that%20works!.gif?raw=true" width="340" alt="Coffee fix that works" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1500&pause=800&color=999999&center=true&vCenter=true&width=500&lines=git+commit+-m+%22fueled+by+coffee%22;npm+run+grind;pip+install+caffeine" alt="Coffee code" />
+
 </div>
 
 <br>
