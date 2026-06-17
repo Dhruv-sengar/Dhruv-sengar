@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=18&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=me+before+coding...+☕;me+AFTER+coffee...+⚡;fuel+%3D+coffee+%2B+caffeine+%2B+chaos+🔥" alt="Coffee text" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Dhruv-sengar/Dhruv-sengar/main/Coffee_fix_that_works_.gif"
+  <img src="https://github.com/Dhruv-sengar/Dhruv-sengar/blob/main/Coffee%20fix%20that%20works!.gif?raw=true"
        width="340"
        style="border-radius: 12px;"
        alt="Coffee fix that works" />
